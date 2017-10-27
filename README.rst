@@ -2,7 +2,7 @@
     :target: http://oscarcommerce.com
 
 ===================================
-Domain-driven e-commerce for Django
+Domain-driven e-commerce for Django 
 ===================================
 
 
